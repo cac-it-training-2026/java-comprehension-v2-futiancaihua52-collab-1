@@ -10,7 +10,7 @@ package q01_basic.question01;
  * 
  * ！注意 テストクラスの内容は変更しないでください
  * 
- * 
+ * 2
  */
 public class MemberTest01 {
 
@@ -34,7 +34,7 @@ public class MemberTest01 {
 	 * メインメソッド - テストケースを実行
 	 */
 	public static void main(String[] args) {
-		System.out.println("=== Memberクラスのテスト開始 ===");
+		System.out.println("=1== Memberクラスのテスト開始 ===");
 
 		// テストケース1: 基本的なメンバー情報の設定と取得
 		testBasicMemberInfo();
