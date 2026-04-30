@@ -6,14 +6,15 @@ package q01_basic.question05;
  * 
  */
 abstract class AbstMember {
-
+	
+	
 	/**
 	 * name protected access
 	 */
 	protected String name;
 
 	/**
-	 * 商品を購入する（メッセージ出力）
+	 * 商品購入する（メッセージ出力）
 	 * 抽象メソッド
 	 */
 	public abstract void buyItem();
