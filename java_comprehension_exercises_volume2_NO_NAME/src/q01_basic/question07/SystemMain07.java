@@ -33,7 +33,7 @@ public class SystemMain07 {
 
 		System.out.println("****************");
 		System.out.println("Listの各要素を2倍します");
-		// 2倍
+		// 2倍にする
 		numberList.doubleListEachValue();
 
 		// 表示
