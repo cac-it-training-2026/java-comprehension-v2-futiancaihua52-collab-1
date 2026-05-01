@@ -62,5 +62,6 @@ public void showMember() {
 	System.out.println("password:"+password);
 	System.out.println("age:"+age);
 	System.out.println("rank:"+rank);
+	System.out.println("********************");
 }
 }
